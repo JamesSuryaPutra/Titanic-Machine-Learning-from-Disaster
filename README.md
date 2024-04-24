@@ -1,6 +1,6 @@
 # Titanic: Machine Learning from Disaster
 
-# Ahoy, welcome to Kaggle! You're in the right place
+# Ahoy, welcome to Kaggle! You're in the right place.
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 
 If you want to talk with other users about this competition, come join our Discord! We've got channels for competitions, job postings and career discussions, resources, and socializing with your fellow data scientists. Follow the link here: https://discord.gg/kaggle
@@ -52,7 +52,7 @@ You should submit a csv file with exactly 418 entries plus a header row. Your su
 # Got it! I'm ready to get started. Where do I get help if I need it?
 Kaggle doesn’t have a dedicated support team so you’ll typically find that you receive a response more quickly by asking your question in the appropriate forum. The forums are full of useful information on the data, metric, and different approaches. We encourage you to use the forums often. If you share your knowledge, you'll find that others will share a lot in turn!
 
-# A last word on kaggle notebooks
+# A last word on Kaggle notebooks
 As we mentioned before, Kaggle Notebooks is our no-setup, customizable, Jupyter Notebooks environment with free GPUs and a huge repository of community published data & code.
 
 In every competition, you’ll find many Notebooks shared with incredible insights. It’s an invaluable resource worth becoming familiar with. Check out this competition’s Notebooks here.
