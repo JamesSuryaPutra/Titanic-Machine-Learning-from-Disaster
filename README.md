@@ -1,4 +1,5 @@
 # Titanic: Machine Learning from Disaster
+![header](https://github.com/JamesSuryaPutra/Titanic-Machine-Learning-from-Disaster/assets/155945814/e08cbdd4-a81d-48e9-a148-8117f62aae3f)
 
 # Ahoy, welcome to Kaggle! You're in the right place.
 This is the legendary Titanic ML competition; the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
@@ -41,6 +42,15 @@ Check out the “Data” tab to explore the datasets even further. Once you feel
 Once you’re ready to make a submission and get on the leaderboard:
 1) Click on the “Submit Predictions” button
 2) Upload a CSV file in the submission file format. You’re able to submit 10 submissions a day.
+
+# How to submit your prediction to Kaggle
+Once you’re ready to make a submission and get on the leaderboard.
+
+1. Click on the "Submit Predictions" button.
+<img width="956" alt="screen1" src="https://github.com/JamesSuryaPutra/Titanic-Machine-Learning-from-Disaster/assets/155945814/3c86bedd-5b51-486f-945c-ae493086da5f">
+
+2. Upload a CSV file in the submission file format. You're able to submit 10 submissions a day.
+<img width="952" alt="screen2" src="https://github.com/JamesSuryaPutra/Titanic-Machine-Learning-from-Disaster/assets/155945814/d1b08c96-005d-4c2a-b0d4-c5063767b55a">
 
 # Submission file format
 You should submit a csv file with exactly 418 entries plus a header row. Your submission will show an error if you have extra columns (beyond PassengerId and Survived) or rows. The file should have exactly 2 columns:
